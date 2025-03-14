@@ -16,7 +16,7 @@ to get your audio devices. In the next step call
 
 For .whl files of the tf light runtime go to: 
     https://www.tensorflow.org/lite/guide/python
-    
+
     
 
 Author: Nils L. Westhausen (nils.westhausen@uol.de)
